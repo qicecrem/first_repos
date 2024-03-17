@@ -1,0 +1,6 @@
+﻿  seeqlist.c
+D:\Users\26317\source\repos\Project2\seeqlist.c(17,41): warning C4013: “realloc”未定义；假设外部返回 int
+D:\Users\26317\source\repos\Project2\seeqlist.c(21,8): warning C4013: “exit”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  Project2.vcxproj -> D:\Users\26317\source\repos\Project2\Debug\Project2.exe

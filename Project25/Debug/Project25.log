@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\Users\26317\source\repos\Project25\源.cpp(53,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project25.vcxproj -> D:\Users\26317\source\repos\Project25\Debug\Project25.exe

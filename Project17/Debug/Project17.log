@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\Users\26317\source\repos\Project17\源.cpp(19,1): error C2440: “return”: 无法从“Example”转换为“Example”
+D:\Users\26317\source\repos\Project17\源.cpp(19,1): message : 由于复制构造函数不明确或没有可用的复制构造函数，因此无法复制构造 class“Example”
+D:\Users\26317\source\repos\Project17\源.cpp(25,30): error C2440: “初始化”: 无法从“Example”转换为“Example”
+D:\Users\26317\source\repos\Project17\源.cpp(25,30): message : 由于复制构造函数不明确或没有可用的复制构造函数，因此无法复制构造 class“Example”
+D:\Users\26317\source\repos\Project17\源.cpp(26,15): error C2679: 二元“=”: 没有找到接受“Example”类型的右操作数的运算符(或没有可接受的转换)
+D:\Users\26317\source\repos\Project17\源.cpp(11,11): message : 可能是“Example &Example::operator =(Example &)”
+D:\Users\26317\source\repos\Project17\源.cpp(26,15): message : 尝试匹配参数列表“(Example, Example)”时

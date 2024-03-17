@@ -1,0 +1,11 @@
+﻿  源.cpp
+D:\Users\26317\source\repos\Project19\源.cpp(42): error C2259: “Entity”: 无法实例化抽象类
+D:\Users\26317\source\repos\Project19\源.cpp(18): message : 参见“Entity”的声明
+D:\Users\26317\source\repos\Project19\源.cpp(42): message : 由于下列成员:
+D:\Users\26317\source\repos\Project19\源.cpp(42): message : “std::string Entity::GetName(void)”: 是抽象的
+D:\Users\26317\source\repos\Project19\源.cpp(21): message : 参见“Entity::GetName”的声明
+D:\Users\26317\source\repos\Project19\源.cpp(42,27): error C2259: “Entity”: 无法实例化抽象类
+D:\Users\26317\source\repos\Project19\源.cpp(18): message : 参见“Entity”的声明
+D:\Users\26317\source\repos\Project19\源.cpp(42,27): message : 由于下列成员:
+D:\Users\26317\source\repos\Project19\源.cpp(42,27): message : “std::string Entity::GetName(void)”: 是抽象的
+D:\Users\26317\source\repos\Project19\源.cpp(21): message : 参见“Entity::GetName”的声明
